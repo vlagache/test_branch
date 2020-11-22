@@ -4,4 +4,7 @@ def func_1():
     # And another
     # etc..
 
+    # Resolution de l'Issue #1
+
+    
     
